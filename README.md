@@ -26,7 +26,7 @@ Este projeto é ainda capaz de identificar pontos de interesse na cidade, e no m
   <img src="exemplos/2.png" width="560" />
 </p>
 	
-### Conclusão e discussão de resultados
+## Conclusão e discussão de resultados
 	Depois de introduzidos ao open street map pelo professor, ficamos interessados pela complexidade e quantidade de dados que esta plataforma tem. Decidimos então pegar em alguns desses dados e transporta-los para uma aplicação onde fosse capaz retirar essa informação e torna-la visível através de um pequeno “jogo”.
 	No futuro podemos ainda adicionar mais informação sobre o mapa e por a correr em tempo real recolhendo dados a todos os minutos para o mapa estar sempre atualizado como o site do open street map.
 
