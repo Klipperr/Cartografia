@@ -1,5 +1,4 @@
 # Tecnologias e Aplicações
-## Segmentação de estradas em imagens do Sentinel-2
 #### Jorge Paiva pg35404
 #### Ricardo Pereira pg35394
 #### Gonçalo Marques pg35402
